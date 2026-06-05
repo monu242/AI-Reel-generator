@@ -79,7 +79,7 @@ with the i want to add something mroe to this . i am gonna deploy it and gonna a
 ---> then i noticed this thing that  everything is created but it is not generating the reel
 ---> and reeel could be only created from ffmpeg installed in our computer
 ---> then i figured it out that generation_process.py is not running in the flask backened.
-## day --two 
+## day --twO
 --> today i tried 2 things 
 ---> i tried to threadng the generation_process.py  in main.py i did everything right it was not throwing the  error . but it not worked 
 ---> i added ai system in the ai reel generator it give suggestion and tell description and ideas
